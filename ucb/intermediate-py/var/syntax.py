@@ -69,3 +69,4 @@ print("Nome: {}, Idade: {}".format(nome, idade))
 x = 5.1
 print(f"Inteiro: {int(x)}")
 print(f"Inteiro: {int(x)*10:5.2f}")
+
